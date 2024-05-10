@@ -1,0 +1,10 @@
+console.log("Mi primer commit a la nube..");
+console.log("git --version ");
+console.log("git init ");
+console.log("git status");
+console.log("git add .   para todos los archivos..");
+console.log("git add nombreArchivo.* para un archivo en especial..");
+console.log("git status     cambian de rojo a verde los archivos preparados..");
+console.log('git commit -m "mensaje commit " le indico trabajo realizado en commit');
+console.log('git status        indica si esta todo cargado ');
+console.log('git push     envia al repo en la nube  ');
